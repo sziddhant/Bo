@@ -46,7 +46,8 @@ emergency_call_data = [
     ("Hospital On Wheels", 104),
     ("Air Accident", 1071),
     ("Train Accident", 1072),
-    ("Road Accident", 1073)
+    ("Road Accident", 1073),
+    ("Blue Cross", 4422300655)
 ]
 user_requirement = []
 
