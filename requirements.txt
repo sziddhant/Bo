@@ -6,7 +6,7 @@ Flask>=1.0.2
 gunicorn==19.6.0
 itsdangerous==0.24
 Jinja2>=2.10
-mysql-connector-python==8.0.13
+mysql-connector-python==8.0.14
 Naked==0.1.31
 pymessenger==0.0.7.0
 PyMySQL==0.9.1
